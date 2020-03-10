@@ -1,0 +1,16 @@
+body {
+	font-family: Helvetica,Arial,sans-serif;
+	background-image: url('consultoria.jpg');
+	background-size: 100%;
+}
+
+.caixa {
+	padding-top: 40px;
+	padding-bottom: 40px;
+	border-radius: 20px;
+	background: rgba(255,255,255,0.5);
+	box-shadow: 5px 5px 5px rgba(0,0,0,0.5);
+	align-content: center;
+	align-items: center;
+}
+
